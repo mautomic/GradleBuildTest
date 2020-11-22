@@ -1,5 +1,5 @@
-# GradleBuildTest
+# gradle-github-actions
 
-![Main](https://github.com/mautomic/GradleBuildTest/workflows/main/badge.svg)  
+![Main](https://github.com/mautomic/gradle-github-actions/workflows/main/badge.svg)  
 
 Repo for testing Github actions and other automated workflows  
