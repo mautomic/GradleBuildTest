@@ -4,10 +4,11 @@
 name: main
 
 on:
-  paths-ignore:
-    - '*.md'
-  branches:
-    - main
+  push:
+    paths-ignore:
+      - '*.md'
+    branches:
+      - main
 
 jobs:
   build:

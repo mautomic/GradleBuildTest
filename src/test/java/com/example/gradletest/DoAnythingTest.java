@@ -7,8 +7,8 @@ public class DoAnythingTest {
 
     @Test
     public void breakDashesTest() {
-        String phrase = "just-a-test";
+        String phrase = "just-a-test-run";
         String[] words = DoAnything.breakDashes(phrase);
-        Assert.assertEquals(3, words.length);
+        Assert.assertEquals(4, words.length);
     }
 }
