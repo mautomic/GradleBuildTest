@@ -9,6 +9,6 @@ public class DoAnythingTest {
     public void breakDashesTest() {
         String phrase = "just-a-test";
         String[] words = DoAnything.breakDashes(phrase);
-        Assert.assertEquals(3, words.length);
+        Assert.assertEquals(2, words.length);
     }
 }
